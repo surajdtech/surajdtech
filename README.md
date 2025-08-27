@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Suraj Dighe  
 
-🚀 **Senior Data Engineer | Real-Time Pipelines | AI/ML | Cloud-Native Architect**
+🚀 **Data Engineering & AI/ML | Data Architect Ops | Real-Time Pipelines | AWS | Spark | Databricks | Snowflake**
 
 I design, build, and optimize **large-scale event-driven pipelines**, focusing on **high-throughput ingestion, advanced Spark tuning, and next-gen AI/LLM integrations** across **AWS, Databricks, Snowflake, and Neo4j** ecosystems.
 
